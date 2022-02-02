@@ -1,0 +1,23 @@
+{
+  "name": "music-bot",
+  "main": "app.js",
+  "author": "carry",
+  "description": "Instagram: e.alper_carry / Discord: carry#0500-(523085229611548672) : If You Have Any Problem You Can Contact Me",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord-player": "^5.2.0",
+    "discord.js": "^13.4.0",
+    "ffmpeg-static": "^4.4.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "version": "1.0.0",
+  "keywords": [],
+  "license": "ISC"
+}
